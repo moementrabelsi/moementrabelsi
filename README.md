@@ -33,9 +33,9 @@ Here’s what’s usually in my utility belt:
 ---
 
 ## 🌍 Based in:
-- 🇹🇳 Tunisia (home sweet home)  
-- 🇫🇷 France (learned a lot, ate well)  
-- 🇸🇮 Slovenia (coded hard, debugged harder)
+- 🇹🇳 **Tunisia** (home sweet home)  
+- 🇫🇷 **France** (learned a lot, ate well)  
+- 🇸🇮 **Slovenia** (coded hard, debugged harder)
 
 ---
 
