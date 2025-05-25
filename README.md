@@ -3,41 +3,55 @@
 🧑‍💻 Full-Stack Developer by day, code whisperer by night.  
 🎓 Officially an engineer, unofficially a debugger of mysteries and slayer of semicolons.
 
-🚀 Building cool things with the **MERN stack**—MongoDB, Express, React, Node.js (aka, my four horsemen of productivity).  
-🤖 Dabbled in some AI wizardry too—built a face recognition module with **TensorFlow** and **OpenCV**. My laptop may or may not fear me now.
+🚀 Currently building full-stack magic at [**SupaSoft**](https://supasoft.com.tn/), where I turn coffee into code and complex ideas into clean, scalable apps.  
+🧠 I enjoy translating real-world problems into smart technical solutions—and sometimes even elegant ones.
+
+🤖 Recently got hands-on with AI: I crafted a face recognition module using **TensorFlow** and **OpenCV**. It works great... unless the face is mine before coffee.
 
 ---
 
 ## 🛠️ Skills include (but are not limited to):
 
-- Speaking fluent `console.log`
-- Arguing with `async/await`
-- Writing code that sometimes works on the first try (I call it "accidental brilliance")
+- Speaking fluent `console.log` (also `print`, `echo`, and `why isn't this working?!`)
+- Arguing with `async/await` like it owes me money
+- Writing code that compiles first try (or at least pretending it did)
+- Debugging until the bug begs for mercy
 
 ---
 
-## 📦 Favorite tools:
-`React.js` • `Vue.js` • `Redux` • `Axios` • `SpringBoot` • `MongoDB`  
-...and a healthy dose of **Stack Overflow**.
+## 📦 Favorite tools and frameworks:
+
+Here’s what’s usually in my utility belt:
+
+- 🎨 **Frontend:** `React.js`, `Vue.js`, `Angular`  
+- 🔧 **Backend:** `Node.js`, `Express.js`, `SpringBoot`  
+- 📡 **API & State:** `Redux`, `Axios`, `Context API`  
+- 🗃️ **Databases:** `MongoDB`, `MySQL`, `NoSQL`  
+- 🧠 **AI/ML:** `TensorFlow`, `OpenCV`  
+- 🧰 And, of course, a healthy dependence on **Stack Overflow**
 
 ---
 
 ## 🌍 Based in:
-- Tunisia (born & based) 🇹🇳  
-- France (trained) 🇫🇷  
-- Slovenia (debugged) 🇸🇮  
+- 🇹🇳 Tunisia (home sweet home)  
+- 🇫🇷 France (learned a lot, ate well)  
+- 🇸🇮 Slovenia (coded hard, debugged harder)
 
 ---
 
-## 🎮 When not coding, I'm probably:
-- Playing strategy games pretending to be productive 🧠🎮  
-- Watching movies like I’m reviewing them for Rotten Tomatoes 🎬  
-- Camping in real life because my code won’t run away from me there ⛺  
+## 🎮 When not coding, you’ll catch me:
+
+- Strategizing my next digital conquest in multiplayer games 🎮  
+- Watching movies like I'm secretly preparing a film podcast 🎬  
+- Camping far from Wi-Fi because nature never throws runtime errors ⛺  
 
 ---
 
 ## 📬 Let’s connect:
-- [LinkedIn](https://linkedin.com/in/abdelmoementrabelsi-developpeur-web)  
-- [GitHub](https://github.com/moementrabelsi)
-- [Upwork](https://www.upwork.com/freelancers/~019132d3f12f0e7de4?mp_source=share)
+- 💼 [LinkedIn](https://linkedin.com/in/abdelmoementrabelsi-developpeur-web)  
+- 💻 [GitHub](https://github.com/moementrabelsi)  
+- 🌐 [Upwork](https://www.upwork.com/freelancers/~019132d3f12f0e7de4?mp_source=share)
 
+---
+
+> 💬 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
