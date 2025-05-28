@@ -50,6 +50,7 @@ Here’s what’s usually in my utility belt:
 ## 📬 Let’s connect:
 - 💼 [LinkedIn](https://linkedin.com/in/abdelmoementrabelsi-developpeur-web)  
 - 🌐 [Upwork](https://www.upwork.com/freelancers/~019132d3f12f0e7de4?mp_source=share)
+- 🌐 [Personal Website](https://moementrabelsi.github.io/abdelmoementrabelsiresume/)
 
 ---
 
