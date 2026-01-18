@@ -3,7 +3,7 @@
 🧑‍💻 Full-Stack Developer by day, code whisperer by night.  
 🎓 Officially an engineer, unofficially a debugger of mysteries and slayer of semicolons.
 
-🚀 Currently building full-stack magic at [**SupaSoft**](https://supasoft.com.tn/), where I turn coffee into code and complex ideas into clean, scalable apps.  
+🚀 Currently building full-stack magic at [**Inoui Agency**], where I turn coffee into code and complex ideas into clean, scalable apps.  
 🧠 I enjoy translating real-world problems into smart technical solutions—and sometimes even elegant ones.
 
 🤖 Recently got hands-on with AI: I crafted a face recognition module using **TensorFlow** and **OpenCV**. It works great... unless the face is mine before coffee.
